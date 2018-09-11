@@ -1,0 +1,15 @@
+http://www.hkssf-hk.org.hk/hk/sec/events/swimming/programs/S1_D1.TXT
+http://www.hkssf-hk.org.hk/hk/sec/events/swimming/programs/S1_D2.TXT
+http://www.hkssf-hk.org.hk/hk/sec/events/swimming/results/RS1_D1.TXT
+http://www.hkssf-hk.org.hk/hk/sec/events/swimming/results/RS1_D2.TXT
+http://www.hkssf-hk.org.hk/hk/sec/events/swimming/results/OS1_D1.TXT
+http://www.hkssf-hk.org.hk/hk/sec/events/swimming/results/OS1_D2.TXT
+http://www.hkssf-hk.org.hk/hk/sec/events/athletics/programs/A1_D1.TXT
+http://www.hkssf-hk.org.hk/hk/sec/events/athletics/results/RA1_D1.TXT
+http://www.hkssf-hk.org.hk/hk/sec/events/athletics/results/OA1_D1.TXT
+http://www.hkssf-hk.org.hk/hk/sec/events/athletics/programs/A1_D2.TXT
+http://www.hkssf-hk.org.hk/hk/sec/events/athletics/results/RA1_D2.TXT
+http://www.hkssf-hk.org.hk/hk/sec/events/athletics/results/OA1_D2.TXT
+http://www.hkssf-hk.org.hk/hk/sec/events/athletics/programs/A1_D3.TXT
+http://www.hkssf-hk.org.hk/hk/sec/events/athletics/results/RA1_D3.TXT
+http://www.hkssf-hk.org.hk/hk/sec/events/athletics/results/OA1_D3.TXT 

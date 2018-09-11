@@ -1,0 +1,55 @@
+Event  4  Long Jump  Boys B Standard:  5.10
+Event  5  400m Hurdles  Boys A Standard:  1:07.00 (0.84m)
+7 Lai Hoi Wang 4J 黎凱弘 1: 3.59
+Event  6  3000m  Boys B Standard: 11:25.00
+19 Chan Chun Ki Ryan 3J 陳俊祺 11:10.39
+24 Yim Ching Wai Justin 4Y 嚴正為 12:18.55
+Event  7  5000m  Boys A Standard: 20:00.00
+15 Cheung Chun Ho 2Y 張竣豪 19:34.85
+24 Lau Ka Wai 6J 劉家維 21:17.89
+Event  8  100m  Boys C Standard: 13.30
+6 Mo Wang Hei 1Y 巫泓熹 12.89
+Event  9  100m  Boys B Standard: 12.50
+Event 10  100m  Boys A Standard: 12.20
+4 Man Tak Yan 4J 文得殷 12.14
+Event 14  Discus  Boys B Standard: 28.00 (1kg)
+Event 15  High Jump  Boys C Standard:  1.35
+1 Chung Chi Kit 2S 鍾志杰 1.76  Standard         9
+Event 16  Shot Put  Boys C Standard:  8.50 (4kg)
+Event 17  Long Jump  Boys A Standard:  5.50
+4 Man Tak Yan 4J 文得殷 6.55  Standard         5
+7 To Chun Lok Paris 5Y 杜俊樂 6.31  Standard         2
+Event 19  800m  Boys C Standard:  2:32.00
+10 Lee Kan On 2K 李健安 2:30.44  Standard
+14 Sit Chung Yin 2Y 薛仲言 2:32.71
+Event 20  800m  Boys B Standard:  2:23.00
+3 Tse Cheuk Hin 3C 謝卓軒 2:10.54  Standard   4
+13 Yau Tse Ho Colin 3W 丘子皓 2:24.04
+Event 21  800m  Boys A Standard:  2:20.00
+3 Chan Yik Long 5J 陳燡朗 2: 7.49  Standard   3
+1 Leung Ho Chun 5S 梁皓進 2: 8.04  Standard   5
+Event 25  200m  Boys C Standard: 27.50
+7 Lo Chin Him 2K 勞展謙 28.49
+Event 26  200m  Boys B Standard: 26.50
+Event 27  200m  Boys A Standard: 25.50
+3 Cheng Chi Tim 6S 鄭智添 23.56            7
+7 Wong Ching Hei 5W 黃政熙 24.18
+Event 33  100m Hurdles  Boys C Standard: 19.50 (0.84m)
+5 Chu Jun 2K 朱駿 17.45
+Event 34  100m Hurdles  Boys B Standard: 17.00 (0.914m)
+6 Cheung Wang Hei 4S 張宏熙 15.39
+Event 35  110m Hurdles  Boys A Standard: 18.50 (0.914m)
+4 Lau Tsz Yip Gordon 5S 劉子業 15.93            1
+6 Leung King Yeung 5J 梁景揚 16.91
+Event 36  Javelin  Boys A Standard: 30.50 (700gm)
+7 Chan Chun Wing Win 6W 陳進榮 43.05  Standard         2
+Event 37  400m  Boys C Standard:  1:04.00
+Event 38  400m  Boys B Standard:  1:00.00
+2 Tse Cheuk Hin 3C 謝卓軒 52.50            3
+Event 39  400m  Boys A Standard: 57.80
+2 Leung Ho Chun 5S 梁皓進 50.90            3
+Event 43  4x100m Relay  Boys C Standard: 52.00
+Event 44  4x100m Relay  Boys B Standard: 49.00
+5 Group 48.19  Standard
+Event 45  4x100m Relay  Boys A Standard: 47.50
+1 Group 45.05  Standard   7

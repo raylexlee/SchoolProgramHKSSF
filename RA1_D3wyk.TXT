@@ -1,0 +1,40 @@
+Event  3  Shot Put  Boys A Standard: 10.20 (5kg)
+Event  4  Triple Jump  Boys A Standard: 11.20
+8 Yang Qiyu 5J 楊啓宇 12.11  Standard         1
+Event  5  High Jump  Boys B Standard:  1.55
+Event  6  400m Hurdles  Boys A Standard:  1:07.00 (0.84m)
+Event 10  200m  Boys C Standard: 27.50
+Event 11  200m  Boys B Standard: 26.50
+Event 12  200m  Boys A Standard: 25.50
+5 Cheng Chi Tim 6S 鄭智添 23.57              4
+Event 17  800m  Boys C Standard:  2:32.00
+Event 18  800m  Boys B Standard:  2:23.00
+2 Tse Cheuk Hin 3C 謝卓軒 2: 6.96              7
+Event 19  800m  Boys A Standard:  2:20.00
+1 Leung Ho Chun 5S 梁皓進 2: 0.30              9
+3 Chan Yik Long 5J 陳燡朗 2: 3.78              6
+Event 23  100m Hurdles  Boys C Standard: 19.50 (0.84m)
+Event 24  100m Hurdles  Boys B Standard: 17.00 (0.914m)
+Event 25  110m Hurdles  Boys A Standard: 18.50 (0.914m)
+5 Lau Tsz Yip Gordon 5S 劉子業 15.24              4
+Event 29  400m  Boys C Standard:  1:04.00
+Event 30  400m  Boys B Standard:  1:00.00
+3 Tse Cheuk Hin 3C 謝卓軒 52.21              6
+Event 31  400m  Boys A Standard: 57.80
+1 Leung Ho Chun 5S 梁皓進 50.34              9
+Event 35  100m  Boys C Standard: 13.30
+Event 36  100m  Boys B Standard: 12.50
+Event 37  100m  Boys A Standard: 12.20
+Event 38  1500m  Boys C Standard:  5:25.00
+Event 39  1500m  Boys B Standard:  5:04.00
+Event 40  1500m  Boys A Standard:  5:00.00
+1 Chan Yik Long 5J 陳燡朗 4:20.38              9
+Event 42  4x100m Relay  Boys C Standard: 52.00
+Event 44  4x100m Relay  Boys B Standard: 49.00
+Event 46  4x100m Relay  Boys A Standard: 47.50
+Event 48  4x400m Relay  Boys C Standard:  4:18.00
+6 Group 4: 7.32              6
+Event 50  4x400m Relay  Boys B Standard:  4:00.00
+5 Group 3:47.89              8
+Event 52  4x400m Relay  Boys A Standard:  3:55.00
+2 Group 3:32.83             14

@@ -1,0 +1,40 @@
+Event  3  Shot Put  Boys A
+         Chan Kin Ming            WYK       9.51                    
+         Lo Chung Wo Virgil       WYK             DN take part      
+Event  4  Triple Jump  Boys A
+    7    Chan Hin Shing Cyrus     WYK      12.48  Standard         2
+         Yang Qiyu                WYK      12.09  Standard          
+Event  5  High Jump  Boys B
+         Leung King Yeung         WYK       1.60  Standard          
+         Ng Hoi Hong              WYK             No Mark           
+Event  6  400m Hurdles  Boys A
+  1  Cheung Wang Fung         WYK        54.32              9
+  7  Fan Chun Yin             WYK      1: 0.09              2
+  1  Fung Chi Lok             WYK        24.53              9
+Event 12  200m  Boys A
+  7  Cheng Chi Tim            WYK        23.56              2
+Event 17  800m  Boys C
+  4  Tse Cheuk Hin            WYK      2:16.67              5
+Event 18  800m  Boys B
+  5  Tong Tsz Hin             WYK      2:11.64              4
+Event 19  800m  Boys A
+  1  Leung Ho Chun            WYK      1:55.58              9
+  6  Chan Yik Long            WYK      2: 4.22              3
+Event 25  110m Hurdles  Boys A
+  1  Cheung Wang Fung         WYK        13.64              9
+Event 29  400m  Boys C
+  1  Tse Cheuk Hin            WYK        54.75              9
+Event 31  400m  Boys A
+  1  Leung Ho Chun            WYK        51.25              9
+Event 35  100m  Boys C
+  1  Fung Chi Lok             WYK        11.91              9
+Event 36  100m  Boys B
+  6  Wong Ching Hei           WYK        11.73              3
+Event 37  100m  Boys A
+  7  Cheng Chi Tim            WYK        11.61              2
+Event 40  1500m  Boys A
+  9  Chan Yik Long            WYK      4:25.96               
+Event 48  4x400m Relay  Boys C
+  1                           WYK      3:52.91             18
+Event 52  4x400m Relay  Boys A
+  1                           WYK      3:28.46             18

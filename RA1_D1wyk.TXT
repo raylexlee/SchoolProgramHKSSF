@@ -1,0 +1,61 @@
+Event  3  Shot Put  Boys B Standard: 10.30 (4kg)
+Event  4  Discus  Boys C Standard: 20.00 (1kg)
+Event  5  400m Hurdles  Boys A Standard:  1:07.00 (0.84m)
+3 Lai Hoi Wang 4J 黎凱弘 1: 3.21  Standard  1   1
+6 Tong Tsz Hin 5W 唐子軒 1: 5.33  Standard
+Event  6  200m  Boys C Standard: 27.50
+5 Lo Chin Him 2K 勞展謙 26.55  Standard  2   8
+5 Mo Wang Hei 1Y 巫泓熹 26.66  Standard
+Event  7  200m  Boys B Standard: 26.50
+5 Lam Chun Ki Totti 2Y 林震淇 26.39  Standard
+4 Yau Tse Ho Colin 3W 丘子皓 26.07  Standard
+Event  8  200m  Boys A Standard: 25.50
+2 Cheng Chi Tim 6S 鄭智添 23.92  Standard  2   7
+2 Wong Ching Hei 5W 黃政熙 24.17  Standard  2   1
+Event 13  Discus  Boys A Standard: 26.00 (1.5kg)
+Event 14  High Jump  Boys A Standard:  1.60
+1 Yang Qiyu 5J 楊啓宇 1.92  Standard         9
+Event 15  Long Jump  Boys C Standard:  4.60
+7 Chung Chi Kit 2S 鍾志杰 4.90  Standard         2
+Event 16  1500m  Boys C Standard:  5:25.00
+9 Choi Ka Yu 1S 蔡家愉 5:35.95
+11 Lee Kan On 2K 李健安 5:15.62  Standard
+Event 17  1500m  Boys B Standard:  5:04.00
+13 Au Chun Chung 3W 區俊聰 5:28.14
+11 Chan Chun Ki Ryan 3J 陳俊祺 4:54.82  Standard
+Event 18  1500m  Boys A Standard:  5:00.00
+10 Cheung Chun Ho 2Y 張竣豪 4:53.06  Standard
+1 Chan Yik Long 5J 陳燡朗 4:30.89  Standard   3
+Event 22  400m  Boys C Standard:  1:04.00
+5 Lo Chin Him 2K 勞展謙 1: 1.52  Standard  2   1
+5 Sit Chung Yin 2Y 薛仲言 1: 6.40
+Event 23  400m  Boys B Standard:  1:00.00
+1 Tse Cheuk Hin 3C 謝卓軒 53.31  Standard  1   3
+Event 24  400m  Boys A Standard: 57.80
+1 Leung Ho Chun 5S 梁皓進 52.31  Standard  2   3
+5 Cheng Chi Tim 6S 鄭智添 55.00  Standard
+Event 27  Triple Jump  Boys B Standard: 10.50
+Event 28  100m Hurdles  Boys C Standard: 19.50 (0.84m)
+3 Lau Chun Wai Rex 2S 劉晋瑋 19.71
+3 Chu Jun 2K 朱駿 19.15  Standard  2   8
+Event 29  100m Hurdles  Boys B Standard: 17.00 (0.914m)
+6 Lee Nok Man Brian 4K 李諾民 16.52  Standard
+2 Cheung Wang Hei 4S 張宏熙 15.19  Standard  1   6
+Event 30  110m Hurdles  Boys A Standard: 18.50 (0.914m)
+3 Leung King Yeung 5J 梁景揚 17.81  Standard  2   8
+3 Lau Tsz Yip Gordon 5S 劉子業 15.87  Standard  2   5
+Event 31  Javelin  Boys B Standard: 26.00 (600gm)
+Event 35  100m  Boys C Standard: 13.30
+6 Mo Wang Hei 1Y 巫泓熹 12.81  Standard  1   1
+Event 36  100m  Boys B Standard: 12.50
+8 Cheung Wang Hei 4S 張宏熙 13.36
+6 Lam Chun Ki Totti 2Y 林震淇 12.47  Standard
+Event 37  100m  Boys A Standard: 12.20
+1 Man Tak Yan 4J 文得殷 11.61  Standard  2   6
+5 Wong Ching Hei 5W 黃政熙 12.02  Standard
+Event 41  4x400m Relay  Boys C Standard:  4:18.00
+3 Group 4: 7.50  Standard   6
+Event 42  4x400m Relay  Boys B Standard:  4:00.00
+3 Group 3:53.23  Standard   7
+Event 43  4x400m Relay  Boys A Standard:  3:55.00
+1 Group 3:31.35  Standard   2

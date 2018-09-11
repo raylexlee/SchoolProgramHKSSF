@@ -1,0 +1,9 @@
+#!/bin/bash
+function error_exit
+{
+	echo "$1" 1>&2
+	exit 1
+}
+wget http://www.hkssf-hk.org.hk/hk/sec/events/swimming/programs/S1_D1.TXT || error_exit "S1_D1.TXT not published by HKSSF yet!"
+./sed_racing < S1_D1.TXT | awk -f genhtml_wyk.awk > s1d1.html
+scp s1d1.html admin.wyk.edu.hk:/wwwdoc/wykrightnow/wykMobile/hkssf/

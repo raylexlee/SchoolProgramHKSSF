@@ -1,0 +1,68 @@
+Event  4  Long Jump  Boys B
+         To Chun Lok Paris        WYK       5.37  Standard          
+         Chan Chun Yin            WYK             DN take part      
+Event  5  400m Hurdles  Boys A
+  1  Cheung Wang Fung         WYK        52.86            2
+  4  Fan Chun Yin             WYK      1: 0.34            1
+Event  6  3000m  Boys B
+ 25  Chan Wang Kit            WYK     11:56.89               
+ 26  Yim Ching Wai Justin     WYK     11:57.58               
+Event  7  5000m  Boys A
+ 21  Wong Shing Hang          WYK     20:25.18               
+ 24  So Tsz Kit               WYK     21:36.90               
+Event  8  100m  Boys C
+  1  Fung Chi Lok             WYK        12.01            2
+  8  Yau Lok Hang             WYK        12.92             
+Event  9  100m  Boys B
+  4  Wong Ching Hei           WYK        11.78            1
+Event 10  100m  Boys A
+  4  Cheng Chi Tim            WYK        11.66            1
+Event 14  Discus  Boys B
+    7    Tsang Chun Ho            WYK      37.10  Standard         2
+         Leung Sum Nam            WYK      29.04  Standard          
+Event 15  High Jump  Boys C
+    1    Chung Chi Kit            WYK       1.63  Standard         9
+         Lau Chun Wai Rex         WYK       1.30                    
+Event 16  Shot Put  Boys C
+    2    Chan Eddie Patrick       WYK      10.52  Standard         7
+         Chan Chun Man            WYK       8.75  Standard          
+Event 17  Long Jump  Boys A
+         Wong Sung Hei            WYK       5.87  Standard          
+         Chan Hin Shing Cyrus     WYK       4.84                    
+Event 19  800m  Boys C
+  7  Yau Tse Ho Colin         WYK      2:26.97  Standard    
+  5  Tse Cheuk Hin            WYK      2:23.54  Standard   7
+Event 20  800m  Boys B
+ 16  Chan Chun Sing           WYK               DN start    
+  2  Tong Tsz Hin             WYK      2:14.75  Standard   4
+Event 21  800m  Boys A
+  3  Chan Yik Long            WYK      2: 6.93  Standard   6
+  2  Leung Ho Chun            WYK      2: 4.31  Standard   2
+Event 25  200m  Boys C
+  1  Fung Chi Lok             WYK        25.18            4
+Event 26  200m  Boys B
+  8  Wong Ching Hei           WYK                          
+Event 27  200m  Boys A
+  4  Cheng Chi Tim            WYK        23.52            1
+Event 34  100m Hurdles  Boys B
+  8  Leung King Yeung         WYK        16.78             
+Event 35  110m Hurdles  Boys A
+  1  Cheung Wang Fung         WYK        14.23            2
+  6  Lau Tsz Yip Gordon       WYK        15.72             
+Event 36  Javelin  Boys A
+    6    Chan Chun Wing Win       WYK      42.72  Standard         3
+         Leung Ka Hin             WYK      37.74  Standard          
+Event 37  400m  Boys C
+  1  Tse Cheuk Hin            WYK        54.83            2
+  7  Mak Chun Tou             WYK      1: 1.77             
+Event 38  400m  Boys B
+  6  Tong Tsz Hin             WYK        55.22             
+Event 39  400m  Boys A
+  1  Leung Ho Chun            WYK        51.15            2
+  7  Lui Nok Man Adrian       WYK        55.42             
+Event 43  4x100m Relay  Boys C
+  8                           WYK               DQ          
+Event 44  4x100m Relay  Boys B
+  4                           WYK        48.52  Standard    
+Event 45  4x100m Relay  Boys A
+  5                           WYK        46.27  Standard    

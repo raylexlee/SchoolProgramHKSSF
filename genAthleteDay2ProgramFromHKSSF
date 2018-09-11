@@ -1,0 +1,11 @@
+#!/bin/bash
+function error_exit
+{
+	echo "$1" 1>&2
+	exit 1
+}
+wget http://www.hkssf-hk.org.hk/hk/sec/events/athletics/programs/A1_D2.TXT || error_exit "A1_D2.TXT not published by HKSSF yet!"
+./sed_racing < A1_D2.TXT | awk -f genhtml_a1d2_wyk.awk > a1d2.html
+scp a1d2.html admin.wyk.edu.hk:/wwwdoc/wykrightnow/wykMobile/hkssf/
+# Save the http://admin.m.wyk.edu.hk/hkssf/a1d1.html using a browser to capture the photos ;)
+# vim edit a1d1.html and copy to http://admin.wyk.edu.hk/hkssf/ for public audience!!

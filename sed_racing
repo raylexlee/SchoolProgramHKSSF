@@ -1,0 +1,15 @@
+#!/bin/bash
+sed -n -E ' 
+/^Event.*Boys/,/^Event|^=====/ {
+   /^Event/ {
+   N
+   s/(^Event.*[ABC])\n(Standard.*[^ ])([ ]*)(Record.*)/\1,\2,\4/
+   p
+   }
+   s/^Heat.*/&/p
+   s/^Semi-final.*/&/p
+   s/^Final.*/&/p
+   s/([ ]*)([0-9]*)([ ]*)([A-Z].*[a-z])([ ]*WYK.*)/\2,\4/p 
+   s/([ ]*)([0-9]*)([ ]*WYK.*)/\2,Group/p 
+}
+'
