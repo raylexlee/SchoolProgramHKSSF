@@ -1,2 +1,0 @@
-#!/usr/bin/env bash
-./getlinks.js http://www.hkssf-hk.org.hk/hk/sec/events/ath.htm > ath.txt
